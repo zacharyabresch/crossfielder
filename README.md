@@ -11,7 +11,7 @@ This application sprang to life out of ... "necessity". I *really* wanted on of 
 
 ## Usage
 
->`crossfielder`
+`crossfielder <options>`
 
 ## Options:
 
